@@ -1,7 +1,6 @@
 {
-  "name": "algo-visualizer",
+  "name": "AlgorithmVisualizer",
   "version": "1.0.0",
-  "homepage": "http://tamimehsan.github.io/AlgorithmVisualizer",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
@@ -27,8 +26,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-scripts --openssl-legacy-provider build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
