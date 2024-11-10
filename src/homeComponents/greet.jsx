@@ -8,9 +8,7 @@ class Greet extends Component {
                     Algorithm Visualizer
                 </h1>
                 <hr className="dropdown-divider"/>
-                <h1 className="display-5">
-                    Visualize algorithms for a better understanding
-                </h1>
+               
             </div>
         );
     }
